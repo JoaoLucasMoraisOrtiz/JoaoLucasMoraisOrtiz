@@ -60,7 +60,7 @@ I bridge the gap between **foundational AI research** and **production-grade eng
 - 📄 **[HTF-Portuguese-LM](https://github.com/JoaoLucasMoraisOrtiz/htf-portuguese-lm)** — 144M Token-free Language Model with Morphological CNN and intra-word attention for Brazilian Portuguese.
 - 🧪 **[LLM-Agent-Arena](https://github.com/JoaoLucasMoraisOrtiz/llm-agent-arena)** — Autonomous multi-agent self-play arena with Thompson Sampling, memory hierarchy, and Elo-based LLM-as-a-Judge evals.
 - 📊 **[TableAgent](https://github.com/JoaoLucasMoraisOrtiz/tableAgent)** — Grounded tabular analysis agent with DuckDB streaming, SQL guardrails, and per-cell evidence lineage.
-- 🎓 **[deeplearning-PG-FEEC](https://github.com/JoaoLucasMoraisOrtiz/deeplearning-PG-FEEC)** — Advanced Deep Learning implementations from UNICAMP graduate coursework.
+- 🎓 **[deeplearning-PG-FEEC](https://github.com/JoaoLucasMoraisOrtiz/deeplearning-PG-FEEC)** — Advanced implementations from UNICAMP graduate coursework (Deep Learning, Compilers, and Digital Image Processing).
 
 ---
 
