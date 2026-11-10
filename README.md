@@ -50,6 +50,8 @@ I bridge the gap between **foundational AI research** and **production-grade eng
 
 - 📄 **[HTF: A Token-Free Language Model with Morphological CNN for Brazilian Portuguese](papers/HTF_article.pdf)** *(Ortiz, Guilherme, Queiroz, 2026 — UNESP & UNICAMP)*  
   *A 144M token-free architecture with 7×–19× typo robustness over BPE models on Brazilian Portuguese benchmarks.*
+- 📄 **[PetroPhi: Fine-Tuning via Adaptadores de um SLM para o Contexto de Perfuração de Poços de Petróleo](papers/petrophi_slm_fine_tuning.pdf)** *(Ortiz, Guilherme, 2025 — XXXVII Congresso de Iniciação Científica da UNESP)*  
+  *Aplicação de distillation learning e adaptadores LoRA para especialização de Small Language Models (SLMs) na compreensão técnica de relatórios de perfuração no setor de óleo e gás.*
 
 ---
 
