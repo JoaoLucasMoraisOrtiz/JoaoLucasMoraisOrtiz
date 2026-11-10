@@ -7,7 +7,7 @@ Focus: Token-Free LMs • Multi-Agent Evals & Self-Play • Grounded Data Agents
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jlucasmortiz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:joao.ortiz@unesp.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jl.ortiz@unesp.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Mogi%20Gua%C3%A7u%2C%20SP%20--%20Brazil-lightgrey?style=for-the-badge" alt="Location" />
 </p>
 
@@ -65,5 +65,5 @@ I bridge the gap between **foundational AI research** and **production-grade eng
 ## 📬 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/jlucasmortiz](https://www.linkedin.com/in/jlucasmortiz/)
-- **Email:** [joao.ortiz@unesp.br](mailto:joao.ortiz@unesp.br)
+- **Email:** [jl.ortiz@unesp.br](mailto:jl.ortiz@unesp.br)
 - **Location:** Mogi Guaçu, SP - Brazil
